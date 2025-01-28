@@ -9,7 +9,7 @@ namespace COMP003A.LectureActivity3_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome tomthe Selection Statments Demo!");
+            Console.WriteLine("Welcome to the Selection Statments Demo!");
 
             //prompt for the current hour
             Console.Write("Enter the current hour (0-23): ");
